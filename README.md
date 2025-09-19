@@ -1,4 +1,4 @@
-Facial Expression Recognition (ICLR2026)
+Facial Emotion Recognition (ICLR2026)
 ==============================
 
 <h2>
